@@ -5,10 +5,10 @@ Para utiiazr las funciones, mostraremos el siguiente ejemplo:
 	iConst = 1.0j
 	oOper = np.array([[0, 1], [1, 0]])
 
-	#Definimimos el las condiciones iniciales establecidas por el problema.
+	#Definimimos el estado inicial establecido por el problema.
 	yInit = np.array([[1, 0], [0, 0]])
 
-	#Necesitamos crear un arreglo de valores temporales por medio del uso denp.linspace, además creamos la variable que nos muestra el paso del tiempo.
+	#Necesitamos crear un arreglo de valores temporales por medio del uso de np.linspace, además creamos la variable que nos muestra el paso del tiempo.
 	times=np.linspace(0,10,150)
 	h= times[1]-times[0]
 
