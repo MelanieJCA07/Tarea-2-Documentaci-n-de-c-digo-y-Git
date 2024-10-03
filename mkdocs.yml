@@ -1,10 +1,13 @@
 site_name: Module rk4
+site_url:https: //melaniejca07.github.io/Tarea-2-Documentaci-n-de-c-digo-y-Git/
 theme:
   name: "material"
+  color: "purple"
 
 nav:
   - Home: index.md
   - Explanation: explanation.md
+  - Function: rk4.md
   - Tutorial: tutorials.md
   - Reference: reference.md
 
