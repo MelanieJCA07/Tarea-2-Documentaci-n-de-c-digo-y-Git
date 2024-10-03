@@ -7,7 +7,7 @@ theme:
 nav:
   - Home: index.md
   - Explanation: explanation.md
-  - Function: rk4.md
+    # - Function: rk4.md
   - Tutorial: tutorials.md
   - Reference: reference.md
 
