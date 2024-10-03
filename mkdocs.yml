@@ -1,0 +1,18 @@
+site_name: Module rk4
+theme:
+  name: "material"
+
+nav:
+  - Home: index.md
+  - Explanation: explanation.md
+  - Tutorial: tutorials.md
+  - Reference: reference.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
