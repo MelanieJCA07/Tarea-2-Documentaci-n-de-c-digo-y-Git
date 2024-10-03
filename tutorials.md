@@ -1,5 +1,5 @@
 # Tutorials
-Para utiiazr las funciones, mostraremos el siguiente ejemplo:
+Para utilizar las funciones, mostraremos el siguiente ejemplo:
 
 	#Establecemos la variable compleja y el operador que se necesita
 	iConst = 1.0j
