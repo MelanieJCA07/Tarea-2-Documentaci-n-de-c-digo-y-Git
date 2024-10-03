@@ -1,5 +1,5 @@
 # Explanation
-En este programa, utilizaremos el método Runge-Kutta de orden 4, el cual es un método iterativo donde cada repetición nos da un punto temporal los cuales se grafican para obtener una solución, esta estimación a la solución a un punto temporal, se realiza de la siguiente forma:
+En este programa, utilizaremos el método Runge-Kutta de orden 4, el cual es un método iterativo donde cada repetición nos da un punto temporal, los cuales se grafican para obtener una solución, esta estimación a la solución a un punto temporal, se realiza de la siguiente forma:
 
 $$
 
